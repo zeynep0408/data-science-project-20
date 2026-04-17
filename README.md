@@ -1,4 +1,4 @@
-# Data Science SQL Project 20
+# Data Science Python Project 20
 
 ### Proje Kurulumu
 Projeyi öncelikle forklayın ve clone edin.
